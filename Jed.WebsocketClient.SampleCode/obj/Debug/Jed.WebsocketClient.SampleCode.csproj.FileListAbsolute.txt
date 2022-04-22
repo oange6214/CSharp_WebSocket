@@ -1,0 +1,11 @@
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\bin\Debug\Jed.WebsocketClient.SampleCode.exe.config
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\bin\Debug\Jed.WebsocketClient.SampleCode.exe
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\bin\Debug\Jed.WebsocketClient.SampleCode.pdb
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\bin\Debug\SuperSocket.ClientEngine.dll
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\bin\Debug\WebSocket4Net.dll
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.csproj.AssemblyReference.cache
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.csproj.SuggestedBindingRedirects.cache
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.csproj.CoreCompileInputs.cache
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.csproj.CopyComplete
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.exe
+D:\C#\SampleCode\Jed.WebsocketServer.SampleCode\Jed.WebsocketClient.SampleCode\obj\Debug\Jed.WebsocketClient.SampleCode.pdb
